@@ -1,6 +1,7 @@
-import Navbar from "@/app/components/navbar/navbar"; // Adjust the path to your Navbar component
+import Navbar from "@/app/components/navbar/navbar"; 
 import "./about.css";
 import Footer from "@/app/components/footer/footer";
+/* eslint-disable react/no-unescaped-entities */
 
 
 export default function About() {
